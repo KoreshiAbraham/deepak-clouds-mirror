@@ -1,7 +1,7 @@
 {
-    "name": "Deepak Clouds Mirror",
+    "name": "Qureshi Clouds Mirror",
     "description": "A Telegram bot for all your mirror needs",
-    "logo": "https://imagetot.com/images/2021/06/17/d7e86862ce2686f4c6c6596bfa72785d.jpg",
+    "logo": "https://i.imgur.com/64QsAHz.jpeg",
     "keywords": [
       "bot",
       "telegram",
@@ -9,7 +9,7 @@
     ],
     "repository": "https://github.com/deepakcloudsoffical/deepak-clouds-mirror",
     "website": "https://github.com/blackdeep04/deepak-clouds-mirror",
-    "success_url": "https://t.me/cloudsmirror",
+    "success_url": "https://t.me/SiamBillah72",
     "stack": "container",
     "env": {
       "ENV": {
@@ -56,7 +56,8 @@
       },
       "INDEX_URL": {
         "description": "Refer to https://github.com/ParveenBhadooOfficial/Google-Drive-Index The URL should not have any trailing '/'.",
-        "required": false
+        "value": "https://koreshdrive.koreshi.workers.dev/0:",
+        "required": true
       },
       "TELEGRAM_API": {
         "description": "This is to authenticate to your Telegram account for downloading Telegram files. You can get this from https://my.telegram.org.",
