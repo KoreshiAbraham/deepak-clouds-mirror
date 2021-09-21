@@ -1,6 +1,6 @@
 [![Slam](https://i.imgur.com/64QsAHz.jpeg)](https://telegram.dog/cloudsmirror)
 
-# Deepak Clouds Mirror
+# Qureshi Clouds Mirror
 ![GitHub Repo stars](https://img.shields.io/github/stars/blackdeep04/deepak-clouds-mirror?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/blackdeep04/deepak-clouds-mirror?color=green&style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/blackdeep04/deepak-clouds-mirror/deepak-clouds-mirror)
